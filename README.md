@@ -25,8 +25,10 @@ O estudo realizou uma revisão bibliográfica de publicações entre 2013 e 2023
 - Formação docente continuada é essencial para o uso da Estatística como ferramenta cidadã.
 
 ## 📄 Certificado
-O artigo foi aceito na **RevistaFT Multicientífica - Edição Abril/2025** (Qualis B2).  
-O certificado está disponível na pasta `/report/`.
+O artigo foi aceito para publicação na **RevistaFT Multicientífica – Edição Abril/2025** (Qualis B2).  
+📎 [Visualizar certificado](./report/CERTIFICADO_TCC_Publicado_Glaucio.pdf)
+🔗 DOI do artigo: 10.69849/revistaft/cl10202504161850
+
 
 ---
 
