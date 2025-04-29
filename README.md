@@ -2,7 +2,6 @@
   <img src="https://github.com/GJFR71/Ensino_Estatistica_EJA/blob/main/Capa_Publ_Artigo_EJA.png" width="800"/>
 </p>
 
-
 # 📚 O Ensino de Estatística na Educação de Jovens e Adultos (EJA): Estratégias e Impactos
 
 ## 💡 Objetivo
