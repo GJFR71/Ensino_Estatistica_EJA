@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GJFR71/Ensino_Estatistica_EJA/blob/main/Capa_Estatistica_EJA.png" width="800"/>
+  <img src="https://github.com/GJFR71/Ensino_Estatistica_EJA/blob/main/Capa_Publ_Artigo_EJA" width="800"/>
 </p>
 
 
